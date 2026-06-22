@@ -1,0 +1,344 @@
+[
+  {
+    "_id": {
+      "$oid": "6a2d53ffbbfdbdc0d3470d29"
+    },
+    "title": "Skoda Elroq 60 63kWh Sportline",
+    "description": "<h3><strong>Autoryzowany Salon SKODA - CARSED 05-300 Stojadła k/Mińska Mazowieckiego ul. Warszawska 84.</strong></h3><p><br></p><p>Elektryczna Skoda Elroq Sportline 204 KM w wersji 60.</p><p><br></p><p>Auto z placu, do szybkiego odbioru.</p><p><br></p><p>Wyposażenie:</p><ul><li>Pakiet Winter</li><li>Kabel do ładowania z gniazda 400 V / 16 A oraz domowego 230 V / 10 A</li><li>Pakiet Plus</li><li>Reflektory Full LED Matrix</li><li>Tylne światła Full LED</li><li>Kamera cofania</li><li>Travel Assist</li><li>Lane Assist</li><li>Emergency Assist</li><li>Traffic Jam Assist</li><li>Kessy Full</li><li>Indukcyjna ładowarka smartfona</li><li>Klimatyzacja Climatronic</li><li>System nawigacji</li><li>Podgrzewane fotele przednie</li><li>Sportowe fotele przód</li><li>Relingi dachowe czarne</li></ul><p><br></p><p>Ogłoszenie ma charakter informacyjny.</p>",
+    "price": 180500,
+    "brand": "Skoda",
+    "city": "Warszawa",
+    "voivodeship": "Mazowieckie",
+    "model": "Elroq",
+    "year": 2026,
+    "mileage": 11,
+    "bodyType": "SUV",
+    "transmission": "automatic",
+    "driveType": "RWD",
+    "powerHP": 204,
+    "batteryCapacityKWh": 63,
+    "batteryType": "NMC",
+    "rangeKm": 390,
+    "chargingPowerDC": 165,
+    "sellerType": "dealer",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": false,
+    "vatInvoice": true,
+    "imageUrls": [
+      "/img/cars/1781355519011_baf729d9-69de-4b61-9112-897ab6b02040.jpg",
+      "/img/cars/1781355519013_c96957a6-6d16-4e8b-9bb3-66caa6f3d731.jpg"
+    ],
+    "userRef": {
+      "$oid": "69ee0c86da25cbb16f6f063b"
+    },
+    "createdAt": {
+      "$date": "2026-06-13T12:58:39.037Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T12:58:39.037Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a2ec45d57f17e6e0650df44"
+    },
+    "title": "Volkswagen ID.4 Performance Upgrade Pro 1st",
+    "description": "<p>Volkswagen ID.4 z 2020 roku to nowoczesny, w pełni elektryczny SUV, który doskonale sprawdzi się zarówno w codziennym użytkowaniu, jak i podczas rodzinnych wyjazdów. Szare nadwozie podkreśla jego elegancki i ponadczasowy charakter.</p><p>Auto oferuje przestronną kabinę z dużą ilością miejsca dla pasażerów oraz pojemny bagażnik. Wnętrze zostało zaprojektowane z myślą o komforcie podróżowania – wygodne siedzenia, liczne schowki oraz nowoczesne rozwiązania zwiększają wygodę każdej trasy.</p><p>Na wyposażeniu znajduje się rozbudowany system multimedialny z obsługą Bluetooth, automatyczna klimatyzacja, tempomat, bezkluczykowy dostęp oraz elektrycznie otwierana klapa bagażnika. Dodatkowo samochód wyposażono w systemy wspomagające kierowcę, czujniki parkowania oraz szereg rozwiązań poprawiających bezpieczeństwo jazdy.</p><p>Nowoczesny wygląd podkreślają aluminiowe felgi, przyciemniane szyby i efektowne reflektory. Volkswagen ID.4 to propozycja dla osób szukających ekonomicznego, komfortowego i dobrze wyposażonego SUV-a z napędem elektrycznym.</p><p>Gwarancja obejmuje:</p><p>• silnik</p><p>• skrzynię biegów</p>",
+    "price": 62000,
+    "brand": "Volkswagen",
+    "model": "ID.4",
+    "year": 2026,
+    "mileage": 45000,
+    "bodyType": "SUV",
+    "transmission": "automatic",
+    "driveType": "AWD",
+    "powerHP": 204,
+    "batteryCapacityKWh": 77,
+    "batteryType": "NCA",
+    "rangeKm": 470,
+    "chargingPowerDC": 135,
+    "city": "Warszawa",
+    "voivodeship": "Mazowieckie",
+    "sellerType": "private",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": false,
+    "imageUrls": [
+      "/img/cars/1781449821959_ChatGPT Image 14 cze 2026, 17_09_08.png",
+      "/img/cars/1781449821963_ChatGPT Image 14 cze 2026, 17_09_26.png",
+      "/img/cars/1781449821966_ChatGPT Image 14 cze 2026, 17_09_35.png"
+    ],
+    "userRef": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "createdAt": {
+      "$date": "2026-06-14T15:10:21.970Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T15:10:21.970Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a2ec68357f17e6e0650df94"
+    },
+    "title": "MINI Countryman Cooper S",
+    "description": "<p>MINI Countryman Cooper S 2024 – bogato wyposażony, dynamiczny crossover w bardzo dobrym stanie.</p><p>Podstawowe informacje:</p><p>• Marka: MINI</p><p>• Model: Countryman Cooper S</p><p>• Rok produkcji: 2024</p><p>• Przebieg: 101 734 km</p><p>• Pochodzenie: USA</p><p>Samochód prezentuje się bardzo dobrze zarówno wizualnie, jak i technicznie. Wnętrze jest zadbane, a bogate wyposażenie zapewnia wysoki komfort codziennego użytkowania i podróżowania.</p><p>Auto posiada niewielkie uszkodzenie po lewej stronie, widoczne na zdjęciach. Poza tym pojazd jest w bardzo dobrym stanie i nie wymaga większych nakładów.</p><p>MINI Countryman Cooper S to świetne połączenie sportowego charakteru, przestronnego wnętrza oraz nowoczesnych rozwiązań technologicznych. Idealna propozycja dla osób szukających dobrze wyposażonego i wyróżniającego się samochodu.</p><p>Zapraszam do kontaktu oraz obejrzenia pojazdu na żywo.</p>",
+    "price": 72100,
+    "brand": "Mini",
+    "model": "Countryman",
+    "year": 2024,
+    "mileage": 102640,
+    "bodyType": "SUV",
+    "transmission": "automatic",
+    "driveType": "FWD",
+    "powerHP": 192,
+    "batteryCapacityKWh": 63,
+    "batteryType": "NMC",
+    "rangeKm": 540,
+    "chargingPowerDC": 62,
+    "city": "Warszawa",
+    "voivodeship": "Mazowieckie",
+    "sellerType": "private",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": false,
+    "imageUrls": [
+      "/img/cars/1781450371714_990f629f-8e3d-42bb-8de8-98283472fc5b.png",
+      "/img/cars/1781450371717_7383de97-74e0-4a39-9202-de72781c1591.png",
+      "/img/cars/1781450371720_ChatGPT Image 14 cze 2026, 17_18_53.png"
+    ],
+    "userRef": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "createdAt": {
+      "$date": "2026-06-14T15:19:31.725Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T15:19:31.725Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a2eca4057f17e6e0650e02e"
+    },
+    "title": "Tesla Model Y 79kWh Long Range AWD",
+    "description": "<p>Tesla Model Y Long Range AWD 79 kWh – nowoczesny elektryczny SUV łączący wysokie osiągi, duży zasięg oraz komfort codziennego użytkowania.</p><p>Podstawowe informacje:</p><p>• Marka: Tesla</p><p>• Model: Model Y Long Range AWD</p><p>• Rok produkcji: 2026</p><p>• Napęd: Elektryczny AWD (4x4)</p><p>• Pojemność baterii: 79 kWh</p><p>Samochód wyposażony jest w efektowne 20-calowe felgi Helix 2.0 oraz elegancki lakier Diament Black, które nadają mu wyjątkowego charakteru i podkreślają nowoczesną stylistykę.</p><p>W standardzie znajduje się bogato wyposażone wnętrze Premium w kolorze All Black, komfortowa konfiguracja dla pięciu osób, a także pakiet funkcji Autopilot wspierający kierowcę podczas podróży. Dodatkowo nowy właściciel może korzystać z 30-dniowego okresu próbnego Łączności Premium, zapewniającej dostęp do rozszerzonych funkcji online.</p><p>Tesla Model Y Long Range AWD to doskonały wybór dla osób poszukujących przestronnego, bezpiecznego i zaawansowanego technologicznie samochodu elektrycznego o dużym zasięgu.</p><p>Dostępne formy finansowania:</p><p>• Leasing</p><p>• Kredyt</p><p>• Pożyczka</p><p>• Wynajem długoterminowy</p><p>Zapraszamy do kontaktu w celu uzyskania szczegółowych informacji oraz przygotowania indywidualnej oferty.</p>",
+    "price": 230000,
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2026,
+    "mileage": 1,
+    "bodyType": "Sedan",
+    "transmission": "automatic",
+    "driveType": "RWD",
+    "powerHP": 375,
+    "batteryCapacityKWh": 65,
+    "batteryType": "NMC",
+    "rangeKm": 480,
+    "chargingPowerDC": 120,
+    "city": "Warszawa",
+    "voivodeship": "Mazowieckie",
+    "sellerType": "private",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": false,
+    "imageUrls": [
+      "/img/cars/1781451328799_teslay1.png",
+      "/img/cars/1781451328802_teslay2.png",
+      "/img/cars/1781451328805_teslay3.png"
+    ],
+    "userRef": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "createdAt": {
+      "$date": "2026-06-14T15:35:28.812Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-14T15:35:28.812Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a317fafa3f3a069ce439c09"
+    },
+    "title": "BMW iX xDrive50 100kWh",
+    "description": "<p>BMW iX xDrive50 to luksusowy, w pełni elektryczny SUV klasy premium, pochodzący z polskiego salonu Auto-Fus w Warszawie. Samochód był również serwisowany w tym samym miejscu, dzięki czemu posiada przejrzystą i udokumentowaną historię.</p><p>Egzemplarz wyróżnia się bardzo bogatym wyposażeniem oraz świetnymi parametrami technicznymi. Auto oferuje komfort, wysoką dynamikę jazdy oraz nowoczesne systemy bezpieczeństwa i wsparcia kierowcy.</p><p>Najważniejsze elementy wyposażenia:</p><p><br></p><ul><li>M Pakiet sportowy,</li><li>skrętna tylna oś,</li><li>aktywna wentylacja przednich foteli,</li><li>aplikacje wewnętrzne Clear &amp; Bold,</li><li>Asystent Parkowania Plus z kamerami 360°,</li><li>BMW Live Cockpit Professional z nawigacją,</li><li>dostęp komfortowy,</li><li>elektrycznie wysuwany hak holowniczy,</li><li>bezprzewodowa ładowarka do telefonu,</li><li>szyba przednia z izolacją termiczną i akustyczną,</li><li>automatyczna klimatyzacja czterostrefowa,</li><li>pakiet Repair Inclusive na 4 lata lub 200 000 km,</li><li>pakiet Service Inclusive na 4 lata bez limitu kilometrów,</li><li>pakiet ogrzewania Comfort,</li><li>przyciemniane tylne szyby,</li><li>reflektory laserowe,</li><li>systemy asystujące kierowcy Professional, w tym adaptacyjny tempomat, asystent pasa ruchu, rozpoznawanie znaków drogowych, systemy awaryjnego hamowania, monitoring martwego pola oraz asystent skrzyżowań,</li><li>panoramiczny szklany dach Sky Lounge,</li><li>wielofunkcyjne fotele przednie,</li><li>pneumatyczne zawieszenie obu osi,</li><li>system audio Harman Kardon Surround Sound,</li><li>aluminiowe felgi 21”.</li></ul><p>BMW iX xDrive50 posiada akumulator o pojemności 111,5 kWh, który pozwala osiągnąć realny zasięg do około 590 km. Dwa silniki elektryczne generują łącznie 523 KM, a napęd na cztery koła zapewnia znakomitą trakcję i bardzo dobre osiągi. Automatyczna przekładnia dodatkowo podnosi komfort codziennej jazdy.</p><p>Samochód jest krajowy, bezwypadkowy i zarejestrowany w Polsce. Auto znajduje się w bardzo dobrym stanie technicznym i wizualnym, posiada nowe opony i jest gotowe do dalszej eksploatacji. Historia pojazdu jest w pełni udokumentowana.</p><p>Istnieje możliwość dokupienia dodatkowej gwarancji na 2 lata bez limitu kilometrów.</p><p>Sprzedaż na podstawie pełnej faktury VAT 23%. Cena podlega rozsądnej negocjacji po obejrzeniu samochodu.</p><p>Nie jestem zainteresowany zamianą ani sprzedażą komisową. Proszę, aby handlarze oraz komisy nie kontaktowali się w sprawie tego typu propozycji.</p>",
+    "price": 220003,
+    "brand": "BMW",
+    "model": "iX",
+    "year": 2022,
+    "mileage": 93000,
+    "bodyType": "SUV",
+    "transmission": "automatic",
+    "driveType": "FWD",
+    "powerHP": 523,
+    "batteryCapacityKWh": 100,
+    "batteryType": "LFP",
+    "rangeKm": 590,
+    "chargingPowerDC": 112,
+    "city": "Warszawa",
+    "voivodeship": "Mazowieckie",
+    "sellerType": "private",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": false,
+    "imageUrls": [
+      "/img/cars/1781628847584_25fe4e10-6fc9-4e28-9836-bd0677d843e8.png",
+      "/img/cars/1781628847588_b9ecc056-2691-4a20-a335-10fed52c1a45.png"
+    ],
+    "userRef": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "createdAt": {
+      "$date": "2026-06-16T16:54:07.602Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T16:54:07.602Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a3183eaa3f3a069ce439c3d"
+    },
+    "title": "Tesla Cybertruck",
+    "description": "<h3><strong>Tesla Cyberbeast 845 KM Foundation Series </strong></h3><p><br></p><p>Fabrycznie nowy, limitowany egzemplarz dostępny w Tesla Select Kraków. Najbogatsza wersja wyposażenia, wyjątkowy wygląd i osiągi na poziomie supersamochodu. Przyspieszenie 0–100 km/h w 2,7 sekundy. Cena netto: 589 000 zł, możliwość pełnego odliczenia VAT. Samochód zarejestrowany w Polsce jako pojazd osobowy, do prowadzenia na prawo jazdy kategorii B. Pojazd w pełni przygotowany do użytkowania w Europie, posiada mapy EU, nawigację EU, internet LTE, aplikację mobilną Tesla oraz możliwość ładowania na Superchargerach. Auto objęte fabryczną gwarancją: 4 lata na pojazd oraz 8 lat na baterię. Na wyposażeniu m.in. napęd AWD z trzema silnikami, moc 845 KM, moment obrotowy 1396 Nm, adapter CCS, adapter do gniazda 230V, adapter do gniazda siłowego, możliwość ładowania dwukierunkowego, osiem kamer, dziewięć poduszek powietrznych, FSD, automatyczne hamowanie awaryjne, system zapobiegania opuszczeniu pasa ruchu, ekran centralny 18,5 cala, tylny ekran 9,4 cala, system audio Tesla z 15 głośnikami, dostęp bezkluczykowy, podgrzewane siedzenia, wentylowane przednie fotele, dwustrefowa klimatyzacja, oświetlenie LED, automatyczne wycieraczki, dach i szyby z ochroną IR/UV, Steer-by-Wire, skrętna tylna oś, adaptacyjne zawieszenie, tryby jazdy terenowej, konstrukcja ze stali nierdzewnej, architektura 800 V oraz instalacja 48 V. Samochód dostępny od ręki w Krakowie. Sprzedający: Tesla Select. Możliwość leasingu oraz pomocy w przygotowaniu korzystnego ubezpieczenia. Cena do rozsądnej negocjacji po obejrzeniu auta. Zapraszamy do kontaktu.</p>",
+    "price": 720000,
+    "brand": "Tesla",
+    "model": "Cybertruck",
+    "year": 2026,
+    "mileage": 1,
+    "bodyType": "Kombi",
+    "transmission": "automatic",
+    "driveType": "FWD",
+    "powerHP": 845,
+    "batteryCapacityKWh": 123,
+    "batteryType": "NMC",
+    "rangeKm": 540,
+    "chargingPowerDC": 120,
+    "city": "Kraków",
+    "voivodeship": "Małopolskie",
+    "sellerType": "dealer",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": true,
+    "imageUrls": [
+      "/img/cars/1781629930147_tesla1.png",
+      "/img/cars/1781629930151_tesla2.png",
+      "/img/cars/1781629930153_tesla3.png"
+    ],
+    "userRef": {
+      "$oid": "6a318068a3f3a069ce439c1a"
+    },
+    "createdAt": {
+      "$date": "2026-06-16T17:12:10.158Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T17:12:10.158Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a318736a3f3a069ce439c61"
+    },
+    "title": "Tesla Model 3",
+    "description": "<h3><strong>Tesla Select Kraków oferuje Tesla Model 3 Dual Motor Performance AWD </strong></h3><p><br></p><p>Dynamiczny, elektryczny sedan z napędem na wszystkie koła, który łączy bardzo dobre osiągi, komfort codziennego użytkowania oraz niskie koszty eksploatacji. Samochód posiada dwa silniki elektryczne, napęd AWD oraz przyspieszenie do 100 km/h w około 3,5 sekundy, dzięki czemu zapewnia świetne wrażenia z jazdy zarówno w mieście, jak i na trasie. Auto wyposażone jest w baterię 60 kWh, która przy spokojnej jeździe w trybie Chill pozwala uzyskać realny zasięg około 400–450 km w warunkach miejskich. Egzemplarz ma niski przebieg, około 30 000 km, jest w ciągłej eksploatacji i nie wymaga żadnych dodatkowych nakładów finansowych od kolejnego właściciela. Samochód jest zadbany, wnętrze znajduje się w bardzo dobrym stanie, a auto prezentuje się bardzo świeżo zarówno z zewnątrz, jak i w środku. Historia pojazdu jest przejrzysta, samochód był użytkowany prywatnie, posiada raport Carfax, a poza drobną szkodą parkingową związaną z lakierowaniem zderzaka nie miał poważniejszych przygód. Żaden element poszycia nie był naprawiany ani ponownie lakierowany. W styczniu 2026 roku samochód przeszedł przegląd w salonie Tesli, około 2000–3000 km temu. Zespół baterii objęty jest gwarancją do 2029 roku. Na wyposażeniu między innymi: system kamer, kamera cofania, Basic Autopilot z możliwością rozszerzeń, szklany dach panoramiczny, skórzana tapicerka, elektrycznie regulowane przednie fotele z pamięcią ustawień i podgrzewaniem, podgrzewane tylne siedzenia, dwustrefowa automatyczna klimatyzacja, system audio premium, nawigacja, Bluetooth, internet oraz aktywna łączność Premium, reflektory LED, światła do jazdy dziennej LED, czujniki parkowania przód i tył, sportowe zawieszenie, 18-calowe felgi aluminiowe, ABS, ESP, asystent pasa ruchu, komplet poduszek powietrznych, kontrola trakcji, automatyczne światła drogowe, elektryczne szyby i lusterka, podgrzewane oraz składane lusterka, system bezkluczykowy, tempomat, szybkie ładowanie, Isofix oraz czujnik ciśnienia w oponach. Tesla Model 3 Performance to świetna propozycja dla osób, które szukają mocnego, nowoczesnego i oszczędnego samochodu elektrycznego z bardzo dobrym wyposażeniem oraz sportowymi osiągami. Auto jest gotowe do jazdy, dostępne w Krakowie. Sprzedający: Tesla Select. Zapraszamy do kontaktu i obejrzenia samochodu na żywo.</p>",
+    "price": 95000,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2020,
+    "mileage": 30800,
+    "bodyType": "Sedan",
+    "transmission": "automatic",
+    "driveType": "FWD",
+    "powerHP": 498,
+    "batteryCapacityKWh": 120,
+    "batteryType": "NMC",
+    "rangeKm": 547,
+    "chargingPowerDC": 75,
+    "city": "Kraków",
+    "voivodeship": "Małopolskie",
+    "sellerType": "dealer",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": true,
+    "imageUrls": [
+      "/img/cars/1781630774070_tesla-m1.png",
+      "/img/cars/1781630774073_tesla-m2.png",
+      "/img/cars/1781630774075_tesla-m3.png",
+      "/img/cars/1781630774077_tesla-m4.png"
+    ],
+    "userRef": {
+      "$oid": "6a318068a3f3a069ce439c1a"
+    },
+    "createdAt": {
+      "$date": "2026-06-16T17:26:14.081Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T17:26:14.081Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6a32a739a3f3a069ce439f72"
+    },
+    "title": "Peugeot 3008",
+    "description": "<p>Na sprzedaż oferuję wyjątkowego <strong>Peugeota 3008 GT Elektryczny 230 Long Range</strong> z baterią <strong>98 kWh</strong>.</p><p>Samochód jest w bardzo atrakcyjnej konfiguracji — wersja <strong>GT</strong>, najmocniejszy wariant elektryczny <strong>230 KM Long Range</strong>, lakier <strong>Niebieski Obsession</strong> oraz wnętrze wykończone <strong>tapicerką Alcantara</strong>. Auto prezentuje się bardzo nowocześnie, jest komfortowe, świetnie wyposażone i idealnie sprawdzi się zarówno w mieście, jak i w dłuższych trasach.</p><p><strong>Dane pojazdu:</strong></p><ul><li>Marka: Peugeot</li><li>Model: 3008</li><li>Wersja: GT Elektryczny 230 Long Range</li><li>Bateria: 98 kWh</li><li>Rok produkcji: 2026</li><li>Kolor lakieru: Niebieski Obsession</li><li>Tapicerka: Alcantara</li><li>Lokalizacja: Poznań</li></ul><p><strong>Wyposażenie dodatkowe:</strong></p><ul><li>Pakiet Hi-Fi</li><li>Pakiet Zimowy</li><li>Grip Control — system kontroli trakcji z trybami: piasek / błoto / śnieg</li><li>Podgrzewana szyba przednia</li><li>Siatka oddzielająca przestrzeń bagażową</li><li>Dach w kolorze czarnym Perla Nera</li><li>Zestaw naprawczy do opon</li></ul><p>Samochód posiada bardzo bogate wyposażenie, nowoczesny napęd elektryczny oraz duży akumulator, który zapewnia wysoki komfort codziennego użytkowania i dobry zasięg. Auto wyróżnia się dynamicznym wyglądem, świetnym wyciszeniem, przestronnym wnętrzem oraz wysoką jakością wykonania.</p><p>Możliwość obejrzenia samochodu w <strong>Poznaniu</strong> po wcześniejszym kontakcie telefonicznym.</p><p>W razie pytań zapraszam do kontaktu — chętnie udzielę więcej informacji i prześlę dodatkowe zdjęcia.</p><p>Ogłoszenie ma charakter informacyjny i nie stanowi oferty w rozumieniu art. 66 §1 Kodeksu Cywilnego.</p>",
+    "price": 220000,
+    "brand": "Peugeot",
+    "model": "3008",
+    "year": 2026,
+    "mileage": 2,
+    "bodyType": "SUV",
+    "transmission": "automatic",
+    "driveType": "RWD",
+    "powerHP": 231,
+    "batteryCapacityKWh": 98,
+    "batteryType": "NMC",
+    "rangeKm": 707,
+    "chargingPowerDC": 98,
+    "city": "Poznań",
+    "voivodeship": "Wielkopolskie",
+    "sellerType": "private",
+    "status": "active",
+    "isBatteryOwned": true,
+    "accidentFree": true,
+    "serviceHistory": true,
+    "vatInvoice": false,
+    "imageUrls": [
+      "/img/cars/1781704505751_ChatGPT Image 17 cze 2026, 15_52_24.png",
+      "/img/cars/1781704505753_ChatGPT Image 17 cze 2026, 15_52_29.png"
+    ],
+    "userRef": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "createdAt": {
+      "$date": "2026-06-17T13:55:05.758Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T13:55:05.758Z"
+    },
+    "__v": 0
+  }
+]

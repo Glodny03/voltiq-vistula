@@ -1,0 +1,89 @@
+[
+  {
+    "_id": {
+      "$oid": "69ee0c86da25cbb16f6f063b"
+    },
+    "username": "admin-jakub",
+    "password": "$2b$10$kVeL90zR73mg4xoFJZbmsOXQM.O5EErGXBOj44wvr3d4LDLaqtyLy",
+    "email": "jakubadmin@test.pl",
+    "avatar": "/img/avatars/default.jpg",
+    "role": "admin",
+    "listings": [
+      {
+        "$oid": "6a2d53ffbbfdbdc0d3470d29"
+      }
+    ],
+    "createdAt": {
+      "$date": "2026-04-26T13:00:54.673Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-13T12:58:39.046Z"
+    },
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "6a2ec2ae57f17e6e0650df38"
+    },
+    "username": "Mariusz Kowalski",
+    "password": "$2b$10$l7CsLxWI4WsdxUbhEsuu2ePsmGmBonAjEbAKRaO.R31JLDS31q1ay",
+    "email": "mariuszk@test.pl",
+    "avatar": "/img/avatars/aiface1.png",
+    "role": "user",
+    "listings": [
+      {
+        "$oid": "6a2ec45d57f17e6e0650df44"
+      },
+      {
+        "$oid": "6a2ec68357f17e6e0650df94"
+      },
+      {
+        "$oid": "6a2eca4057f17e6e0650e02e"
+      },
+      {
+        "$oid": "6a317fafa3f3a069ce439c09"
+      },
+      {
+        "$oid": "6a32a739a3f3a069ce439f72"
+      }
+    ],
+    "firstName": "Mariusz",
+    "lastName": "Kowalski",
+    "telephone": "123123123",
+    "createdAt": {
+      "$date": "2026-06-14T15:03:10.444Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-17T13:55:05.759Z"
+    },
+    "__v": 5
+  },
+  {
+    "_id": {
+      "$oid": "6a318068a3f3a069ce439c1a"
+    },
+    "username": "Tesla Select",
+    "password": "$2b$10$Js1.yRbRGGIpXiyVNvbw2uUExErLjZGp/Gl0.PdZ6210NWnhs.TtW",
+    "email": "teslaselect@test.pl",
+    "avatar": "/img/avatars/teslaselect.png",
+    "role": "user",
+    "listings": [
+      {
+        "$oid": "6a3183eaa3f3a069ce439c3d"
+      },
+      {
+        "$oid": "6a318736a3f3a069ce439c61"
+      }
+    ],
+    "firstName": "Mariusz",
+    "lastName": "Nowak",
+    "telephone": "123123123",
+    "createdAt": {
+      "$date": "2026-06-16T16:57:12.203Z"
+    },
+    "updatedAt": {
+      "$date": "2026-06-16T17:26:14.082Z"
+    },
+    "__v": 2
+  }
+]
